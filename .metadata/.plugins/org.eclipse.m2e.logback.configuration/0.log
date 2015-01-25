@@ -1,0 +1,64 @@
+2015-01-24 16:28:18,424 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Workspace5\Multiple_Title_Validation\pom.xml
+2015-01-24 16:28:24,436 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Multiple_Title_Validation:1.1 @ C:\Workspace5\Multiple_Title_Validation\pom.xml.
+2015-01-24 16:28:27,194 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Multiple_Title_Validation:1.1 @ C:\Workspace5\Multiple_Title_Validation\pom.xml.
+2015-01-24 16:28:27,322 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Multiple_Title_Validation/src/main/java
+2015-01-24 16:28:27,334 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Multiple_Title_Validation/src/test/java
+2015-01-24 16:28:33,892 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 15 sec
+2015-01-24 16:28:35,011 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Multiple_Title_Validation:1.1 @ C:\Workspace5\Multiple_Title_Validation\pom.xml.
+2015-01-24 16:28:35,273 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 16:28:35,273 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\main\resources
+2015-01-24 16:28:35,280 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 16:28:35,281 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\test\resources
+2015-01-24 16:32:09,872 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Multiple_Title_Validation:${build.version} @ C:\Workspace5\Multiple_Title_Validation\pom.xml.
+2015-01-24 16:32:09,979 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 16:32:09,979 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\main\resources
+2015-01-24 16:32:09,982 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 16:32:09,983 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\test\resources
+2015-01-24 16:36:44,245 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Title_Validation:${build.version} @ C:\Workspace5\Multiple_Title_Validation\pom.xml.
+2015-01-24 16:36:48,200 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 16:36:48,200 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\main\resources
+2015-01-24 16:36:48,213 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 16:36:48,213 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\test\resources
+2015-01-24 16:36:50,279 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 16:36:50,280 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\main\resources
+2015-01-24 16:36:50,285 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 16:36:50,285 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\test\resources
+2015-01-24 16:38:35,631 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Multiple_Title_Validation:${build.version} @ C:\Workspace5\Multiple_Title_Validation\pom.xml.
+2015-01-24 16:38:36,428 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 16:38:36,429 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\main\resources
+2015-01-24 16:38:36,430 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 16:38:36,431 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\test\resources
+2015-01-24 16:39:02,759 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Multiple_Title_Validation:${build.version} @ C:\Workspace5\Multiple_Title_Validation\pom.xml.
+2015-01-24 16:39:03,574 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 16:39:03,575 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\main\resources
+2015-01-24 16:39:03,576 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 16:39:03,577 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\test\resources
+2015-01-24 16:40:28,671 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 16:40:28,672 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\main\resources
+2015-01-24 16:40:28,673 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 16:40:28,673 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\test\resources
+2015-01-24 16:40:29,759 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 16:40:29,759 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\main\resources
+2015-01-24 16:40:29,762 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 16:40:29,762 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\test\resources
+2015-01-24 16:44:11,441 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 16:44:11,441 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\main\resources
+2015-01-24 16:44:11,443 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 16:44:11,443 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\test\resources
+2015-01-24 16:47:25,953 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Multiple_Title_Validation:${build.version} @ C:\Workspace5\Multiple_Title_Validation\pom.xml.
+2015-01-24 16:47:26,776 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 16:47:26,777 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\main\resources
+2015-01-24 16:47:26,779 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 16:47:26,780 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\test\resources
+2015-01-24 16:47:55,661 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 16:47:55,662 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\main\resources
+2015-01-24 16:47:55,663 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 16:47:55,663 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\test\resources
+2015-01-24 17:08:05,829 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 17:08:05,830 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\main\resources
+2015-01-24 17:08:05,832 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 17:08:05,832 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\test\resources
+2015-01-24 17:16:55,125 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 17:16:55,126 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\main\resources
+2015-01-24 17:16:55,131 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-24 17:16:55,131 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace5\Multiple_Title_Validation\src\test\resources
